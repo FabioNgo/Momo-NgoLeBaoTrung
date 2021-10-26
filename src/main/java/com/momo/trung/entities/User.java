@@ -1,4 +1,4 @@
-package com.momo.trung;
+package com.momo.trung.entities;
 
 import com.momo.trung.enums.DrinkEnum;
 

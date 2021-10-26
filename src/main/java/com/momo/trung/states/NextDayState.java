@@ -1,7 +1,7 @@
 package com.momo.trung.states;
 
-import com.momo.trung.Promotion;
-import com.momo.trung.User;
+import com.momo.trung.entities.Promotion;
+import com.momo.trung.entities.User;
 import com.momo.trung.enums.StateEnum;
 
 public class NextDayState extends StateImpl {
